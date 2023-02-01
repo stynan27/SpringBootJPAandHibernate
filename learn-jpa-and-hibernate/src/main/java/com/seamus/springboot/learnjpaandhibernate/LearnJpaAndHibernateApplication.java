@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LearnJpaAndHibernateApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LearnJpaAndHibernateApplication.class, args);
+		  SpringApplication.run(LearnJpaAndHibernateApplication.class, args);
 	}
 
 }

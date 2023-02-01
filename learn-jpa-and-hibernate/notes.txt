@@ -1,0 +1,11 @@
+# Example sql queries
+
+#Insert
+insert into course (id, name, author)
+values(1, 'Learn AWS', 'Seamus');
+
+#Select ALL
+select * from course
+
+#Delete Insert
+delete from course where id=1
